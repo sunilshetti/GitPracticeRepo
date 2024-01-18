@@ -8,6 +8,8 @@ public class sampleGitHub
 		
 		System.out.println("I am pushing my code to git");
 		
+		System.out.println("git");
+		
 	}
 
 }
