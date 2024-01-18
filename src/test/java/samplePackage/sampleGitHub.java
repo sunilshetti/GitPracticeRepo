@@ -6,6 +6,8 @@ public class sampleGitHub
 		
 		System.out.println("Welcome to GitHub");
 		
+		System.out.println("I am pushing my code to git");
+		
 	}
 
 }
