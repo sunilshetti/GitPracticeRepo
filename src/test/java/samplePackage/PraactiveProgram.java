@@ -10,7 +10,7 @@ public class PraactiveProgram {
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.myteamlease.com/");
-		driver.wait(2000);
+		Thread.sleep(2000);
 		
 		driver.close();
 
